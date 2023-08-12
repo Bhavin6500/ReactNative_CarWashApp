@@ -1,8 +1,8 @@
 # ReactNative_CarWashApp
-# [Login](screenshot/1.jpeg)
+# [Login](screenshots/1.jpeg)
 
-# [Home](screenshot/2.jpeg)
-# [Cart](screenshot/3.jpeg)
-# [Date](screenshot/4.jpeg)
-# [Order](screenshot/5.jpeg)
-# [Done](screenshot/6.png)
+# [Home](screenshots/2.jpeg)
+# [Cart](screenshots/3.jpeg)
+# [Date](screenshots/4.jpeg)
+# [Order](screenshots/5.jpeg)
+# [Done](screenshots/6.jpeg)
